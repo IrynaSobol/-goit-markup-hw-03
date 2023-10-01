@@ -34,19 +34,20 @@ img {
 .container {
     max-width: 1158px;
     width: 100%;
-    padding: 0 15px;
+    padding-left: 15px;
+    padding-right: 15px;
     margin: 0 auto;
 }
     
 /*=====HEADER=====*/
 .header {
     border-bottom: 1px solid #e7e9fc;
+    padding-top: 25.5px;
+    padding-bottom: 25.5px;
 }
 
 .header-conteiner {
     display: flex;
-    padding-top: 25.5px;
-    padding-bottom: 25.5px;
 }
 
 .header-nav {
