@@ -34,8 +34,7 @@ img {
 .container {
     max-width: 1158px;
     width: 100%;
-    padding-left: 15px;
-    padding-right: 15px;
+    padding: 0 15px;
     margin: 0 auto;
 }
     
@@ -226,7 +225,7 @@ img {
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    padding-bottom: 8px;
+    margin-bottom: 8px; 
 }
 .team-text {
     color: #434455;
